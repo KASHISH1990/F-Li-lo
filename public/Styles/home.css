@@ -1,0 +1,23 @@
+body{
+    background-color: beige;
+}
+
+h1{
+    text-align: center;
+    border: 2px solid red;
+    background-color: greenyellow;
+}
+
+ul{
+    list-style-type: none;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    float: left;
+    margin-right:20px;
+}

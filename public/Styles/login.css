@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(35, 15, 211);
+}
+
+h1{
+    text-align: center;
+    color:rgb(14, 233, 80);
+    background-color: rgb(161, 145, 114);
+}
+
+label{
+    color:rgb(245, 22, 196);
+    margin-right: 10px;
+}
+
+button{
+    color:green;
+    margin-left:50px;
+}
+
+form{
+    padding:10px;
+    border:1px solid white;
+    border-radius: 2px;
+}
+
+h1{
+    display: inline;
+    margin-left: 30%;
+}
+
+#firstimg{
+    width: 5%;
+    
+}
+
